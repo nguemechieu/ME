@@ -1,5 +1,5 @@
 
-# Hi there, I'm [NOEL NGUEMECHIEU] 👋
+# Hi there, I'm NOEL MARTIAL NGUEMECHIEU 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-nguemechieu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nguemechieu/)](https://www.linkedin.com/in/NGUEMECHIEU/)
 [![Gmail Badge](https://img.shields.io/badge/-noelmartialnguemechieu@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:noelmartialnguemechieu@gmail.com)](noelmartialnguemechieu@gmail.com)
@@ -36,8 +36,8 @@ Feel free to reach out to me for collaboration, project inquiries, or just to sa
 
 - **Email:** [nguemechieu@live.com](mailto:nguemechieu@live.com)
 - **Phone:** +1 (302) 317-6610
-- **LinkedIn:** [YourLinkedInUsername](https://www.linkedin.com/in/noel.nguemechieu/)
-- **YouTube Channel:** [TechExperts](https://www.youtube.com/channel/noelmartialnguemechieu)
+- **LinkedIn:** [NGUEMECHIEU](https://www.linkedin.com/in/nguemechieu/)
+- **YouTube Channel:** [TechExperts](https://www.youtube.com/channel/TechExperts)
 
 ## GitHub Stats
 
