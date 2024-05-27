@@ -1,9 +1,9 @@
 
 # Hi there, I'm [NOEL NGUEMECHIEU] 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-[nguemechieu]-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/[n.nguemechieu]/)](https://www.linkedin.com/in/[NGUEMECHIEU]/)
-[![Gmail Badge](https://img.shields.io/badge/-[nguemechieu@live.com]-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:[NGUEMECHIEU@LIVE.COM])]([nguemechieu@live.com])
-[![GitHub followers](https://img.shields.io/github/followers/[nguemechieu]?label=Follow&style=social)](https://github.com/[nguemechieu])
+[![Linkedin Badge](https://img.shields.io/badge/-nguemechieu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nguemechieu/)](https://www.linkedin.com/in/NGUEMECHIEU/)
+[![Gmail Badge](https://img.shields.io/badge/-noelmartialnguemechieu@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:noelmartialnguemechieu@gmail.com)](noelmartialnguemechieu@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/nguemechieu?label=Follow&style=social)](https://github.com/nguemechieu)
 
 ## About Me
 
@@ -36,11 +36,11 @@ Feel free to reach out to me for collaboration, project inquiries, or just to sa
 
 - **Email:** [nguemechieu@live.com](mailto:nguemechieu@live.com)
 - **Phone:** +1 (302) 317-6610
-- **LinkedIn:** [YourLinkedInUsername](https://www.linkedin.com/in/[noel.nguemechieu]/)
-- **YouTube Channel:** [TechExperts](https://www.youtube.com/channel/[noelmartialnguemechieu])
+- **LinkedIn:** [YourLinkedInUsername](https://www.linkedin.com/in/noel.nguemechieu/)
+- **YouTube Channel:** [TechExperts](https://www.youtube.com/channel/noelmartialnguemechieu)
 
 ## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[nguemechieu]&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nguemechieu&show_icons=true&theme=radical)
 
 
