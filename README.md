@@ -9,6 +9,8 @@
 
 I am a dedicated and passionate **Software Developer**, **DevOps Engineer**, **Trader**, **Investor**, and an **Electrical and Computer Engineering student** at Delaware Technical Community College. With a diverse skill set and a drive for continuous learning, I specialize in creating innovative solutions and optimizing systems for efficiency and scalability.
 
+![Profile views](https://komarev.com/ghpvc/?username=nguemechieu&color=blue)
+
 ## Projects
 
 ### [TradeAdviser](https://github.com/nguemechieu/TradeAdviser)
