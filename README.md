@@ -23,7 +23,7 @@ A system for MT4 and MT5 platforms enabling live trade execution, manual trade m
 ## Skills
 
 - **Programming Languages:** Java, Python, MQL4, JavaScript, C# , C++
-- **Web Development:** Node.js, HTML, CSS, REACT
+- **Web Development:** Node.js, HTML, CSS, REACT, WordPress,
 - **Database Management:** MySQL, SQLite, Mongo Db
 - **DevOps Tools:** Docker, Kubernetes, Jenkins, CI/CD, Terraform, Helm, Apache
 - **Cloud And Migration:** AWS, GOOGLE CLOUD, Digital Ocean, Microsoft Azure
