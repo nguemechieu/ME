@@ -5,11 +5,12 @@
 [![Gmail Badge](https://img.shields.io/badge/-noelmartialnguemechieu@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:noelmartialnguemechieu@gmail.com)](noelmartialnguemechieu@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/nguemechieu?label=Follow&style=social)](https://github.com/nguemechieu)
 
+![Profile views](https://komarev.com/ghpvc/?username=nguemechieu&color=blue)
+
 ## About Me
 
 I am a dedicated and passionate **Software Developer**, **DevOps Engineer**, **Trader**, **Investor**, and an **Electrical and Computer Engineering student** at Delaware Technical Community College. With a diverse skill set and a drive for continuous learning, I specialize in creating innovative solutions and optimizing systems for efficiency and scalability.
 
-![Profile views](https://komarev.com/ghpvc/?username=nguemechieu&color=blue)
 
 ## Projects
 
